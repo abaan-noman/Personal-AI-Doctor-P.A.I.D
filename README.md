@@ -15,3 +15,10 @@ TrainingDataExample.txt: for sample training data used by the AI model
 Overall, P.A.I.D provides a powerful tool for users to get real-time medical advice through the integration of cutting-edge AI technologies. The platform is designed to be easily customizable and deployable on any suitable infrastructure. For more details, refer to the project files and the comments within the code.
 
 Feel free to use the code but ensure to find/use a platform for deploying the LLMs easily.
+Furthermore, for further assistance or inquiries, feel free to reach out to the developers listed below:
+
+Abaan Noman - abaan1@yahoo.com
+
+Abdullah Shibib - abdullahshibib@yahoo.com
+
+Mahmoud Berkoti - m.berkoti@gmail.com
